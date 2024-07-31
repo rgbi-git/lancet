@@ -1,3 +1,3 @@
-module git.rivergame.net/bi/lancet
+module https://github.com/rgbi-git/lancet
 
 go 1.21
